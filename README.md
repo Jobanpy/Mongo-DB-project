@@ -57,5 +57,7 @@ Potential future improvements include expanding the dataset to cover regional ch
 📞 Contact
 
 Harjoban Singh 
+
 📧 hjawanda@norquest.ca
+
 📞 +1 (780)-224-0890
